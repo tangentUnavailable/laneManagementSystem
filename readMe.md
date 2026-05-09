@@ -23,6 +23,7 @@ Self-Service: 6 seconds
 
 **Directory Structure:**
 
+```text
 - lane_management_system/
   │
   ├── constants.py # Constants for simulation parameters
@@ -44,3 +45,4 @@ Self-Service: 6 seconds
 
 **License:** This project is licensed under the MIT License.
 # laneManagementSystem
+```
