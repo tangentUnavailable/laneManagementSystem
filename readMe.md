@@ -31,7 +31,7 @@ Self-Service: 6 seconds
   ├── lane.py # Lane class representing a checkout lane
   ├── main.py # Entry point of the simulation
   └── simulation.py # Simulation logic, including generation of customers, lane management, and display status
-  ```text
+```
 
 **Dependencies:** Ensure you have Python 3.x installed on your system. The project uses standard libraries, so no additional packages are required.
 
